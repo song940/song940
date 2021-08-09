@@ -1,6 +1,6 @@
 Hey there! 👋
 
-I’m SONG LIU,  currently working as Senior Front-End Engineer at Bytedance Inc.
+I’m SONG LIU,  currently working as Senior Front-End Engineer at [Bytedance Inc.](https://bytedance.com)
 
 Passionate about financial, software and/or hardware design, architecture, thinking etc.
 
