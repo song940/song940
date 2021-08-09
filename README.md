@@ -1,6 +1,6 @@
 Hey there! 👋
 
-I’m SONG LIU,  currently working as Senior Front-End Engineer at Ant Group / Alibaba Inc.
+I’m SONG LIU,  currently working as Senior Front-End Engineer at Bytedance Inc.
 
 Passionate about financial, software and/or hardware design, architecture, thinking etc.
 
