@@ -1,10 +1,10 @@
 Hey there! 👋
 
-I’m SONG LIU,  currently working as Senior Front-End Engineer at [Bytedance Inc](https://bytedance.com), focusing on IaaS / FaaS / SaaS Service.
+I’m SONG LIU, currently working as Team Leader and Senior Engineer at [Bytedance Inc](https://bytedance.com), focusing on IaaS / FaaS / SaaS Service.
 
 Passionate about financial, software and/or hardware design, architecture, thinking etc.
 
-- 🌱 I’m currently learning about JavaScript.
+- 🌱 I’m currently learning about JavaScript / TypeScript / Golang / Rust.
 - 💬 Ask me about anything, I'm happy to help!
 - 📝 Read my blogs: [Liu Song's Blog](https://blog.lsong.org)
 - 😄 Pronouns: He/Him
