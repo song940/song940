@@ -21,6 +21,9 @@ I want share my thoughts and experience with you! 🥳
 Also feel free to follow me on the social media:
 Facebook / Twitter / Google / WeChat: @song940
 
+- *bitcoin*: bc1qulxg7x47mam55fexrp99gg6zx2j80mawc90nut
+- *nostr*: npub1f93jllrvkdtx025w55j4nwfdmvvpmpazfd5pncngy8nwwurn85gsvvxkkw
+
 📍Beijing, China
 
 https://lsong.org
